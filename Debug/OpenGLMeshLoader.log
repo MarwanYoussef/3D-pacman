@@ -1,0 +1,18 @@
+﻿  OpenGLMeshLoader.cpp
+c:\users\marawan\desktop\lab_7\lab 7\openglmeshloader\texturebuilder.h(27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marawan\desktop\lab_7\lab 7\openglmeshloader\texturebuilder.h(28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marawan\desktop\lab_7\lab 7\openglmeshloader\openglmeshloader.cpp(241): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\marawan\desktop\lab_7\lab 7\openglmeshloader\openglmeshloader.cpp(652): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\marawan\desktop\lab_7\lab 7\openglmeshloader\openglmeshloader.cpp(658): warning C4838: conversion from 'bool' to 'GLfloat' requires a narrowing conversion
+c:\users\marawan\desktop\lab_7\lab 7\openglmeshloader\openglmeshloader.cpp(835): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\marawan\desktop\lab_7\lab 7\openglmeshloader\openglmeshloader.cpp(836): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\marawan\desktop\lab_7\lab 7\openglmeshloader\openglmeshloader.cpp(1036): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\marawan\desktop\lab_7\lab 7\openglmeshloader\openglmeshloader.cpp(1037): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\marawan\desktop\lab_7\lab 7\openglmeshloader\openglmeshloader.cpp(1064): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> C:\Users\Marawan\Desktop\Lab_7\Lab 7\OpenGLMeshLoader\Debug\OpenGLMeshLoader.exe
